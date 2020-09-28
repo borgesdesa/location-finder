@@ -1,0 +1,12 @@
+{
+  "name": "locationfinder",
+  "displayName": "locationfinder",
+  "expo": {
+    "name": "locationfinder",
+    "slug": "locationfinder",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
